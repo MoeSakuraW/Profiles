@@ -100,7 +100,11 @@ DOMAIN-KEYWORD,bbcfmt,Streaming
 DOMAIN-KEYWORD,uk-live,Streaming
 # > bilibili Intl
 DOMAIN-SUFFIX,biliintl.com,Streaming
+DOMAIN,apm-misaka.biliapi.net,Streaming
+DOMAIN,p.bstarstatic.com,Streaming
+DOMAIN,p-bstarstatic.akamaized.net,Streaming
 DOMAIN,upos-bstar-mirrorakam.akamaized.net,Streaming
+DOMAIN,upos-bstar1-mirrorakam.akamaized.net,Streaming
 # > DAZN
 USER-AGENT,DAZN*,Streaming
 DOMAIN-SUFFIX,dazn.com,Streaming
@@ -207,6 +211,9 @@ DOMAIN,d3c7rimkq79yfu.cloudfront.net,Streaming
 # > LiTV
 DOMAIN-SUFFIX,litv.tv,Streaming
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,Streaming
+# > MangoTV(芒果TV国际)
+DOMAIN-SUFFIX,api.mgtv.com,Streaming
+DOMAIN,mobileso.bz.mgtv.com,Streaming
 # > My5
 USER-AGENT,My5*,Streaming
 DOMAIN-SUFFIX,channel5.com,Streaming
@@ -275,6 +282,9 @@ DOMAIN,link.theplatform.com,Streaming
 # > PBS
 USER-AGENT,PBS*,Streaming
 DOMAIN-SUFFIX,pbs.org,Streaming
+# > Peacock
+USER-AGENT,PeacockMobile*,Streaming
+DOMAIN-SUFFIX,peacocktv.com,Streaming
 # > Pornhub
 DOMAIN-SUFFIX,phncdn.com,Streaming
 DOMAIN-SUFFIX,phprcdn.com,Streaming
